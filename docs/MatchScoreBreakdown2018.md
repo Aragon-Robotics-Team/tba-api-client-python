@@ -1,5 +1,6 @@
 # MatchScoreBreakdown2018
 
+See the 2018 FMS API documentation for a description of each value.
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
